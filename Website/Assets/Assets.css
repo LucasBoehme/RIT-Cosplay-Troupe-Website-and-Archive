@@ -1,0 +1,42 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+	background-color: orange;
+	text-align: center;
+	padding: 25px;
+	
+}
+
+.navbar {
+	background-color: #c9700a;
+	height: 75px;
+
+}
+
+aside{
+	width: 20%;
+	float: left;
+	padding: 10px;
+}
+
+section{
+	width: 40%;
+	float: left;
+	padding: 10px;
+}
+
+*{
+	box-sizing: border-box;
+	
+}
+
+article{
+	width: 40%;
+	float: left;
+	padding: 10px;
+}
